@@ -9,7 +9,7 @@ public class Producto {
 	private Double precio;
 	private Integer stock;
 	
-	
+	//Hola MUNDA
 	public Integer getIdProducto() {
 		return idProducto;
 	}
